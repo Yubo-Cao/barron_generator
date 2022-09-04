@@ -1,0 +1,408 @@
+missile
+<SEP>
+(N.) 投掷物 | object to be thrown or projected
+
+After carefully folding his book report into a paper airplane, Beavis threw the missile across the classroom at Butthead. Rocket scientists are building guided missiles; Beavis and Butthead can barely make unguided ones.
+<CARD>
+missive
+<SEP>
+(N.) 信件 | letter
+
+The ambassador received a missive from the secretary of state.
+<CARD>
+mite
+<SEP>
+(N.) 小东西；小硬币 | very small object or creature; small coin
+
+Gnats are annoying mites that sting.
+<CARD>
+mitigate
+<SEP>
+(V.) 减轻；减缓；中和 | appease; moderate
+
+Nothing Jason did could mitigate Medea's anger; she refused to forgive him for betraying her.
+<CARD>
+mnemonic
+<SEP>
+(ADJ.) 记忆的 | pertaining to memory
+
+He used mnemonic tricks to master new words.
+<CARD>
+mobile
+<SEP>
+(ADJ.) 移 动的 | movable; not fixed
+
+(N.) mobility
+
+The mobile blood bank operated by the Red Cross visited our neighborhood today.
+<CARD>
+mock
+<SEP>
+(V.) 嘲弄；嘲笑 | ridicule; imitate, often in derision
+
+(N.) mockery
+
+It is unkind to mock anyone; it is stupid to mock anyone significantly bigger than you.
+<CARD>
+mode
+<SEP>
+(N.) 时尚；方式；模式 | prevailing style; manner; way of doing something
+
+The rock star had to have her hair done in the latest mode: frizzed, with occasional moussed spikes for variety. Henry plans to adopt a simpler mode of life: he is going to become a mushroom hunter and live off the land.
+<CARD>
+modicum
+<SEP>
+(N.) 少量 | limited quantity
+
+Although his story is based on a modicum of truth, most of the events he describes are fictitious.
+<CARD>
+modulate
+<SEP>
+(V.) 控制；调制到标准；调制（信号） | tone down in intensity; regulate; change from one key to another
+
+Always singing at the top of her lungs, the budding Brunhilde never learned to modulate her voice.
+<CARD>
+molecule
+<SEP>
+(N.) 分子 | the smallest particle (one or more atoms) of a substance, having all the properties of that substance
+
+In chemistry, we study how atoms and molecules react to form new substances.
+<CARD>
+mollify
+<SEP>
+(V.) 平息；安 | soothe
+
+The airline customer service representative tried to mollify the angry passenger by offering her a seat in first class.
+<CARD>
+molt
+<SEP>
+(V.) 换毛；褪毛 | shed or cast off hair or feathers
+
+When Molly's canary molted, he shed feathers all over the house.
+<CARD>
+molten
+<SEP>
+(ADJ.) 融化了的 | melted
+
+The city of Pompeii was destroyed by volcanic ash rather than by molten lava flowing from Mount Vesuvius.
+<CARD>
+momentous
+<SEP>
+(ADJ.) 非常重要的 | very important
+
+When Marie and Pierre Curie discovered radium, they had no idea of the momentous impact their discovery would have upon society.
+<CARD>
+momentum
+<SEP>
+(N.) 动量；动力 | quantity of motion of a moving body; impetus
+
+The car lost momentum as it tried to ascend the steep hill.
+<CARD>
+monarchy
+<SEP>
+(N.) 君主制；君主整体 | government under a single ruler
+
+Though England today is a monarchy, there is some question whether it will be one in twenty years, given the present discontent at the prospect of Prince Charles as king.
+<CARD>
+monastic
+<SEP>
+(ADJ.) 僧侣的；遁入空门的；不问世事 | related to monks or monasteries; removed from worldly concerns
+
+Withdrawing from the world, Thomas Merton joined a contemplative religious order and adopted the monastic life.
+<CARD>
+monetary
+<SEP>
+(ADJ.) 金融的 | pertaining to money
+
+Jane held the family purse strings: she made all monetary decisions affecting the household.
+<CARD>
+monochromatic
+<SEP>
+(ADJ.) 单色的 | having only one color
+
+Most people who are color blind actually can distinguish several colors; some, however, have a truly monochromatic view of a world all in shades of gray.
+<CARD>
+monolithic
+<SEP>
+(ADJ.) 单片的；单块的；一体不动摇的 | solidly uniform; unyielding
+
+Knowing the importance of appearing resolute, the patriots sought to present a monolithic front.
+<CARD>
+monosyllabic
+<SEP>
+(ADJ.) 单音节的 | having only one syllable
+
+(N.) monosyllable
+
+No matter what he was asked, the taciturn New Englander answered with a monosyllabic "Yep" or "Nope."
+<CARD>
+monotony
+<SEP>
+(N.) 千篇一律的 | sameness leading to boredom
+
+What could be more deadly dull than the monotony of punching numbers into a computer hour after hour?
+<CARD>
+montage
+<SEP>
+(N.) 蒙太奇 | photographic composition combining elements from different sources
+
+In one early montage, Beauchamp brought together pictures of broken mannequins and newspaper clippings about the Vietnam War.
+<CARD>
+monumental
+<SEP>
+(ADJ.) 雄伟的；厚重的；结 的；纪念的 | massive
+
+Writing a dictionary is a monumental task.
+<CARD>
+moodiness
+<SEP>
+(N.) 闷闷不乐 | fits of depression or gloom
+
+Her recurrent moodiness left her feeling as if she had fallen into a black hole.
+<CARD>
+moratorium
+<SEP>
+(N.) 延期偿还 | legal delay of payment
+
+If we declare a moratorium and delay collection of debts for six months, I am sure the farmers will be able to meet their bills.
+<CARD>
+morbid
+<SEP>
+(ADJ.) 病态的；恐怖的；喜怒无常的；不成熟的 | given to unwholesome thought; moody; characteristic of disease
+
+People who come to disaster sites just to peer at the grisly wreckage are indulging their morbid curiosity.
+<CARD>
+mores
+<SEP>
+(N.) 风俗习惯 | conventions; moral standards; customs
+
+In America, Benazir Bhutto dressed as Western women did; in Pakistan, however, she followed the mores of her people, dressing in traditional veil and robes.
+<CARD>
+moribund
+<SEP>
+(ADJ.) 垂死的 | dying
+
+Hearst took a moribund, failing weekly newspaper and transformed it into one of the liveliest, most profitable daily papers around.
+<CARD>
+morose
+<SEP>
+(ADJ.) 郁闷的；乖僻的 | ill-humored; sullen; melancholy
+
+Forced to take early retirement, Bill acted morose for months; then, all of a sudden, he shook off his sullen mood and was his usual cheerful self.
+<CARD>
+mortician
+<SEP>
+(N.) 殡仪业者 | undertaker
+
+The mortician prepared the corpse for burial.
+<CARD>
+mortify
+<SEP>
+(V.) 侮辱；体罚 | humiliate; punish the flesh
+
+She was so mortified by her blunder that she ran to her room in tears.
+<CARD>
+mosaic
+<SEP>
+(N.) 马赛克 | picture made of colorful small inlaid tiles
+
+The mayor compared the city to a beautiful mosaic made up of people of every race and religion on earth.
+<CARD>
+mote
+<SEP>
+(N.) 小半点 | small speck
+
+The tiniest mote in the eye is very painful.
+<CARD>
+motif
+<SEP>
+(N.) 主旨；本意；机 | theme
+
+This simple motif runs throughout the entire score.
+<CARD>
+motley
+<SEP>
+(ADJ.) 多彩的；杂色的；混合的 | multi-colored; mixed
+
+The jester wore a motley tunic, red and green and blue and gold all patched together haphazardly. Captain Ahab had gathered a motley crew to sail the vessel: old sea dogs and runaway boys, pillars of the church and drunkards, even a tattooed islander who terrified the rest of the crew.
+<CARD>
+mottled
+<SEP>
+(ADJ.) 有斑点的；弄脏的 | blotched in coloring; spotted
+
+When old Falstaff blushed, his face was mottled with embarrassment, all pink and purple and red.
+<CARD>
+muddle
+<SEP>
+(V., N.) 迷惑的；搞乱了的；混淆了的 | confuse; mix up
+
+His thoughts were muddled and chaotic.
+<CARD>
+muggy
+<SEP>
+(ADJ.) 又热又潮的（天气） | warm and damp
+
+August in New York City is often muggy.
+<CARD>
+multifaceted
+<SEP>
+(ADJ.) 多面的 | having many aspects
+
+A multifaceted composer, Roger Davidson has recorded original pieces that range from ragtime tangos to choral masses.
+<CARD>
+multifarious
+<SEP>
+(ADJ.) 多样的；各式各样的 | varied; greatly diversified
+
+A career woman and mother, she was constantly busy with the multifarious activities of her daily life.
+<CARD>
+multiform
+<SEP>
+(ADJ.) 多态的 | having many forms
+
+Snowflakes are multiform but always hexagonal.
+<CARD>
+multilingual
+<SEP>
+(ADJ.) 多语种的 | having many languages
+
+Because they are bordered by so many countries, the Swiss people are multilingual.
+<CARD>
+multiplicity
+<SEP>
+(N.) 多样性 | state of being numerous
+
+He was appalled by the multiplicity of details he had to complete before setting out on his mission.
+<CARD>
+mundane
+<SEP>
+(ADJ.) 世俗的；日常的 | worldly as opposed to spiritual; everyday
+
+Uninterested in philosophical or spiritual discussions, Tom talked only of mundane matters such as the daily weather forecast or the latest basketball results.
+<CARD>
+munificent
+<SEP>
+(ADJ.) 宽宏大量的；慷慨大方的 | very generous
+
+(N.) munificence
+
+Shamelessly fawning over a particularly generous donor, the dean kept on referring to her as "our munificent benefactor."
+<CARD>
+mural
+<SEP>
+(N.) 壁画 | wall painting
+
+The walls of the Chicano Community Center are covered with murals painted in the style of Diego Rivera, the great Mexican artist.
+<CARD>
+murky
+<SEP>
+(ADJ.) 暗的；模糊的；暧昧的 | dark and gloomy; thick with fog; vague
+
+The murky depths of the swamp were so dark that one couldn't tell the vines and branches from the snakes.
+<CARD>
+muse
+<SEP>
+(V., N.) 沉思 | ponder
+
+For a moment he mused about the beauty of the scene, but his thoughts soon changed as he recalled his own personal problems.
+<CARD>
+mushroom
+<SEP>
+(V.) 膨胀；迅速生长 | expand or grow rapidly
+
+Between 1990 and 1999, the population of Silicon Valley mushroomed; with the rapidly increasing demand for housing, home prices skyrocketed as well.
+<CARD>
+musky
+<SEP>
+(ADJ.) 麝香味儿的 | having the odor of musk
+
+She left a trace of musky perfume behind her.
+<CARD>
+muster
+<SEP>
+(V., N.) 收集；集合 | gather; assemble
+
+Washington mustered his forces at Trenton.
+<CARD>
+musty
+<SEP>
+(ADJ.) 陈腐的；变质的；时间长损失品质的 | stale; spoiled by age
+
+The attic was dark and musty.
+<CARD>
+mutability
+<SEP>
+(N.) 变化能力 | ability to change in form; fickleness
+
+Going from rags to riches, and then back to rags again, the bankrupt financier was a victim of the mutability of fortune.
+<CARD>
+muted
+<SEP>
+(ADJ.) 静默的；静音的 | silent; muffled; toned down
+
+Thanks to the thick, sound-absorbing walls of the cathedral, only muted traffic noise reached the worshippers within.
+<CARD>
+mutinous
+<SEP>
+(ADJ.) 反抗的；暴动的 | unruly; rebellious
+
+The captain had to use force to quiet his mutinous crew. mutiny,
+<CARD>
+myopic
+<SEP>
+(ADJ.) 鼠目寸光；缺乏远见 | nearsighted; lacking foresight
+
+Stumbling into doors despite the coke bottle lenses on his glasses, the nearsighted Mr. Magoo is markedly myopic. In playing all summer long and ignoring to store up food for winter, the grasshopper in Aesop's fable was myopic as well.
+<CARD>
+myriad
+<SEP>
+(N., ADJ.) 无数；非常多 | very large number
+
+Myriads of mosquitoes from the swamps invaded our village every twilight.
+<CARD>
+mystify
+<SEP>
+(V.) 迷惑；惑 | bewilder purposely
+
+When doctors speak in medical jargon, they often mystify their patients, who have little knowledge of medical terminology.
+<CARD>
+nadir
+<SEP>
+(N.) 谷底；最低点；天底 | lowest point
+
+Although few people realized it, the Dow-Jones averages had reached their nadir and would soon begin an upward surge.
+<CARD>
+naiveté
+<SEP>
+(N.) 天真烂漫的；简单的 | quality of being unsophisticated; simplicity; artlessness; gullibility
+
+(ADJ.) naive
+
+Touched by the naivetd of sweet, convent-trained Cosette, Marius pledges himself to protect her innocence.
+<CARD>
+narcissist
+<SEP>
+(N.) 自我陶醉的人；逞能的人 | conceited person; someone in love with his own image
+
+A narcissist is her own best friend.
+<CARD>
+narrative
+<SEP>
+(ADJ.) 解说的 | related to telling a story
+
+(V.) narrate
+
+A born teller of tales, Tillie Olsen used her impressive narrative skills to advantage in her story "I Stand Here Ironing."
+<CARD>
+nascent
+<SEP>
+(ADJ.) 初生的 | incipient; coming into being
+
+If we could identify these revolutionary movements in their nascent state, we would be able to eliminate serious trouble in later years.
+<CARD>
+natty
+<SEP>
+(ADJ.) 穿着整齐干净的 | neatly or smartly dressed
+
+Priding himself on being a natty dresser, the gangster Bugsy Siegel collected a wardrobe of imported suits and ties.
+<CARD>
