@@ -1,1 +1,3 @@
-credential.yml
+auth.*
+*.log
+__pycache__
